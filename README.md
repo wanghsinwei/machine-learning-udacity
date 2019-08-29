@@ -3,6 +3,10 @@ This repository contains the projects I completed for the [Udacity Machine Learn
 
 ## Projects
 
+### [Capstone Project: ISIC 2019 - Skin Lesion Analysis Towards Melanoma Detection](https://github.com/wanghsinwei/isic-2019)
+- **Summary:** Classify dermoscopic images among nine different diagnostic categories without meta-data.
+- **Keywords:** [Convolutional Neural Network (CNN)](https://en.wikipedia.org/wiki/Convolutional_neural_network), [Transfer Learning](http://cs231n.github.io/transfer-learning/), Fine-Tuning, Ensemble Model, Out-of-Distribution Detection
+
 ### [Project 1: Predicting Boston Housing Prices](project_1_boston_housing)
 - **Summary:** Predict the value of houses using decision tree regression, grid search, and k-fold cross validation.
 - **Keywords:** [Decision Tree Regression](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html), Grid Search, [K-fold Cross Validation](https://scikit-learn.org/stable/modules/cross_validation.html), [R<sup>2</sup> Score (Coefficient of Determination)](https://scikit-learn.org/stable/modules/model_evaluation.html#r2-score-the-coefficient-of-determination), Supervised Learning, [Pandas](https://pandas.pydata.org), [Scikit-learn](https://scikit-learn.org)
